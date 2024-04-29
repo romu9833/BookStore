@@ -15,7 +15,7 @@
         "id": 2,
         "name": "story Book",
         "title": "Just like companies that spend millions on naming new products",
-        "price":0,
+        "price":5,
         "category":"free",
         "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=9ebcbfe3-de72-4209-8856-0b7d1224d447"
 
@@ -40,19 +40,19 @@
     },
     {
         "id": 5,
-        "name": "story Book",
+        "name": "music book",
         "title": "Just like companies that spend millions on naming new products",
-        "price":0,
-        "category":"free",
+        "price":7,
+        "category":"",
         "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=9ebcbfe3-de72-4209-8856-0b7d1224d447"
 
     },
     {
         "id": 6,
-        "name": "story Book",
+        "name": "song",
         "title": "Just like companies that spend millions on naming new products",
-        "price":0,
-        "category":"free",
+        "price":19,
+        "category":"",
         "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=9ebcbfe3-de72-4209-8856-0b7d1224d447"
 
     },
@@ -78,7 +78,7 @@
         "id": 9,
         "name": "story Book",
         "title": "Just like companies that spend millions on naming new products",
-        "price":0,
+        "price":4,
         "category":"free",
         "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=1&uuid=9ebcbfe3-de72-4209-8856-0b7d1224d447"
 
